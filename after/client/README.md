@@ -1,8 +1,13 @@
-# React + Vite
+This Basic Blog Project is the culmination of learning a lot of concepts and putting them into practice. Currently hosted on an independent Netlify Site.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Check it out on my Portfolio Website: (Link in bio)
 
-Currently, two official plugins are available:
+Concepts used:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React Router
+- API Fetch Requests
+- ASYNC Functions
+- Database Actions/Mutations
+- JSON Server
+- AXIOS
+- Loaders
